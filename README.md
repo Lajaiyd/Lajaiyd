@@ -1,87 +1,119 @@
-## 👋 Hi, I’m Jide Akinyemi
+<!-- ======================================
+Lajaiyd · GitHub Profile README
+====================================== -->
 
-**AI / Computer Vision Engineer | Systems-Oriented Software Developer**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=900&color=2563EB&center=true&vCenter=true&width=900&lines=Jide+Akinyemi;AI+%26+Computer+Vision+Engineer;Production-Grade+Vision+Systems" />
+</p>
 
-I build **production-minded computer vision systems** with a strong foundation in **low-level systems, performance, and secure software design**. My work focuses on turning visual data into reliable, scalable, and verifiable products.
-
----
-
-## 🔧 What I Build
-- Computer vision pipelines for real-world media
-- AI systems that integrate **metadata, provenance, and trust**
-- Performance-aware software with clear failure modes
-- Tools that scale beyond demos and notebooks
-
----
-
-## 🧠 Core Expertise
-
-### Computer Vision & AI
-- OpenCV-based vision pipelines
-- Image analysis and feature extraction
-- ML fundamentals (training, evaluation, bias awareness)
-- Dataset curation and quality control
-
-### Systems & Performance
-- Memory management and low-level debugging
-- Concurrency and synchronization
-- Linux / Unix development environments
-- Profiling, testing, and correctness-driven design
-
-### Software Engineering
-- Python, C, C++, Java
-- Modular codebases with clean interfaces
-- Git-based collaboration workflows
-- Maintainable, documented systems
-
-### Security & Reliability
-- Secure coding practices
-- Vulnerability-aware design
-- Metadata integrity and auditability
-- Exposure to GRC concepts (Archer, ServiceNow)
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineering-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Systems%20Thinking-111827?style=for-the-badge" />
+</p>
 
 ---
 
-## 📂 Selected Work
-*(Representative categories – repositories evolving)*
+## About
+I design and build **production-ready computer vision systems** with a strong emphasis on  
+**performance, correctness, and reliability**.
 
-### 🔹 Computer Vision Systems
-- End-to-end image processing pipelines
-- Metadata-aware visual workflows
-- Early work on media authenticity and provenance
+My work sits at the intersection of:
+- Visual understanding  
+- Systems-oriented engineering  
+- Trustworthy and metadata-aware media workflows  
 
-### 🔹 Systems Programming
-- Custom memory management
-- Synchronization primitives
-- Debugging and correctness testing in low-level code
-
-### 🔹 Tooling & Automation
-- Scripted utilities for analysis and verification
-- Data-handling tools with reliability in mind
+I care about software that survives **real-world constraints**, not just demos.
 
 ---
 
-## 🎯 Industry Context
-I also operate a **high-end visual communications practice**, giving me direct exposure to:
-- Real-world media pipelines
-- Asset scale and delivery constraints
-- Trust, authenticity, and lifecycle management of visual data
-
-This perspective informs how I design AI systems that must work **outside the lab**—under time pressure, scale, and accountability.
+## What I’m Focused On
+- End-to-end computer vision pipelines (data → inference → evaluation)
+- Dataset quality, bias awareness, and measurable performance
+- Clean APIs, testability, and maintainable systems
+- Media authenticity, provenance, and structured metadata
 
 ---
 
-## 📫 Connect
-- GitHub: https://github.com/Lajaiyd
-- LinkedIn: www.linkedin.com/in/akinyemi-olajide
+## Core Stack
+
+### AI / Computer Vision
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F59E0B?style=flat-square&logo=scikit-learn&logoColor=white" />
+</p>
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-111827?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-4338CA?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-F97316?style=flat-square" />
+</p>
+
+### Engineering & Tooling
+<p>
+  <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-DC2626?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0EA5E9?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testing-16A34A?style=flat-square&logo=pytest&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 Current Focus
-- Shipping production-ready CV systems
-- Strengthening performance and reliability guarantees
-- Preparing for **industry AI / Computer Vision engineering roles**
+## Selected Work
+*(Representative — pin 4–6 repositories for best effect)*
+
+- **Vision Pipeline Framework**  
+  Modular CV pipeline with preprocessing, inference, and evaluation stages.
+
+- **Dataset QA & Validation Tools**  
+  Utilities for split integrity, duplication detection, and labeling checks.
+
+- **Metadata-Aware Media Systems**  
+  Early work on integrity-preserving visual asset workflows.
+
+- **Systems Programming Projects**  
+  Memory management, synchronization, and correctness-driven debugging.
 
 ---
 
-*I value clear interfaces, measurable performance, and systems that hold up in production.*
+## GitHub Activity
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lajaiyd&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lajaiyd&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=Lajaiyd&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+## Perspective
+Alongside engineering, I work in **high-end visual production environments**, which informs how I design AI systems that must handle:
+- Scale and delivery constraints  
+- Media lifecycle management  
+- Trust, attribution, and authenticity  
+
+This real-world exposure strongly influences my approach to CV engineering.
+
+---
+
+## Connect
+<p align="center">
+  <a href="https://github.com/Lajaiyd">
+    <img src="https://img.shields.io/badge/GitHub-Lajaiyd-111827?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/akinyemi-olajide/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:iamjideakinyemi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Clear interfaces. Measurable performance. Systems that hold up in production.</i>
+</p>
