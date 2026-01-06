@@ -3,7 +3,7 @@ Lajaiyd · GitHub Profile README
 ====================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=900&color=2B2E38&center=true&vCenter=true&width=900&lines=Jide+Akinyemi;AI+%26+Computer+Vision+Engineer;Production-Grade+Vision+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Jide+Akinyemi;AI+%26+Computer+Vision+Engineer;Production-Grade+Vision+Systems" />
 </p>
 
 
