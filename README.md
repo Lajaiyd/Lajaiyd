@@ -15,23 +15,23 @@ Lajaiyd · GitHub Profile README
 ---
 
 ## About
-I design and build **production-ready computer vision systems** with a strong emphasis on  
-**performance, correctness, and reliability**.
+I build **production-minded computer vision systems** with a strong foundation in **low-level systems, performance, and secure software design**. 
+My work focuses on turning visual data into reliable, scalable, and verifiable products.
+
+---
 
 My work sits at the intersection of:
 - Visual understanding  
 - Systems-oriented engineering  
 - Trustworthy and metadata-aware media workflows  
 
-I care about software that survives **real-world constraints**, not just demos.
-
 ---
 
-## What I’m Focused On
-- End-to-end computer vision pipelines (data → inference → evaluation)
-- Dataset quality, bias awareness, and measurable performance
-- Clean APIs, testability, and maintainable systems
-- Media authenticity, provenance, and structured metadata
+## 🔧 What I Build
+- Computer vision pipelines for real-world media
+- AI systems that integrate **metadata, provenance, and trust**
+- Performance-aware software with clear failure modes
+- Tools that scale beyond demos and notebooks
 
 ---
 
@@ -63,7 +63,6 @@ I care about software that survives **real-world constraints**, not just demos.
 ---
 
 ## Selected Work
-*(Representative — pin 4–6 repositories for best effect)*
 
 - **Vision Pipeline Framework**  
   Modular CV pipeline with preprocessing, inference, and evaluation stages.
@@ -81,12 +80,15 @@ I care about software that survives **real-world constraints**, not just demos.
 
 ## GitHub Activity
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lajaiyd&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lajaiyd&layout=compact&hide_border=true&theme=transparent" />
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=Lajaiyd&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lajaiyd&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=Lajaiyd&hide_border=true&theme=transparent" />
+  <img height="180"
+       src="https://streak-stats.demolab.com?user=Lajaiyd&hide_border=true&theme=transparent" />
 </p>
 
 ---
