@@ -3,8 +3,9 @@ Lajaiyd · GitHub Profile README
 ====================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=900&color=3A2F45&center=true&vCenter=true&width=900&lines=Jide+Akinyemi;AI+%26+Computer+Vision+Engineer;Production-Grade+Vision+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=900&color=C2A86D&center=true&vCenter=true&width=900&lines=Jide+Akinyemi;AI+%26+Computer+Vision+Engineer;Production-Grade+Vision+Systems" />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineering-2563EB?style=for-the-badge" />
