@@ -82,10 +82,16 @@ My work sits at the intersection of:
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lajaiyd&theme=github)
 
-<p align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lajaiyd&theme=github" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lajaiyd&theme=github" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lajaiyd&theme=github" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lajaiyd&theme=github" />
+    </td>
+  </tr>
+</table>
 
 ---
 
